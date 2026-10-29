@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/biostat625/mypackage.10.29.26.4/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/biostat625/mypackage.10.29.26.4/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/biostat625/mypackage.10.29.26.4/graph/badge.svg)](https://app.codecov.io/gh/biostat625/mypackage.10.29.26.4)
 <!-- badges: end -->
 
 The goal of mypackage.10.29.26.4 is to …
